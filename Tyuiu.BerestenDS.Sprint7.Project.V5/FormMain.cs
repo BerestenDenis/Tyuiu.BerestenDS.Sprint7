@@ -26,6 +26,5 @@ namespace Tyuiu.BerestenDS.Sprint7.Project.V5
             FormGoods formGoods = new FormGoods();
             formGoods.ShowDialog();
         }
-
     }
 }
